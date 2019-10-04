@@ -33,12 +33,12 @@
         <repository>
             <id>nexus-artifact</id>
 	    <name>mvn1</name>
-            <url>http://18.217.241.42:8081/nexus/content/repositories/mvn1</url>
+	    <url>http://13.232.118.230:8081/nexus/content/repositories/mvn1</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>Snapshots</name>
-            <url>http://18.217.241.42:8081/nexus/content/repositories/snapshots/</url>
+	    <url>http://13.232.118.230:8081/nexus/content/repositories/mvn1/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
